@@ -1,4 +1,4 @@
-# Application02- Analysis of Pokemon Go Data
+# Analysis of Pokemon Go Data
 
 **1. Intoduction**
 
@@ -16,12 +16,6 @@ In this repository, the following quesions are analyzed and visualized:
 * Comparative boxplots
 * Violin plots
 * Characteristics of an evolved Pokémon combat power
-
-**3. Link to code** 
-Source code for this application is as follows: [Link to source code](https://github.com/sta518/application02-shyaa23/blob/master/application02.Rmd)
-
-The linked for the results for data exploration is as follows: [Link to report](https://github.com/sta518/application02-shyaa23/blob/master/application02.html)
-
 
 
 
